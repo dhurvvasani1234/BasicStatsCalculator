@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #add8e6;
+    padding: 8px;
+}
+
+
+.label-column {
+    text-align: right;
+    font-weight: bold;
+}
+
+.label-row {
+    margin-bottom: 8px;
+}
+
+.error {
+    color: red;
+    margin: 8px 0;
+}
+
+.error-container {
+    margin: 16px 0;
+}
+
+.calculate-button {
+    margin-left: 250px;
+}
